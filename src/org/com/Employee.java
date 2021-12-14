@@ -9,8 +9,20 @@ public class Employee {
 		Employee e = new Employee();
 		e.add();
 	}
+	public void sub() {
+		System.out.println("sub");
+	}
+	public void mul() {
+		System.out.println("mul");
+	}
 	public void divd() {
 		System.out.println("divd");
+
+	
+
+	
+
+
 
 	}
 
